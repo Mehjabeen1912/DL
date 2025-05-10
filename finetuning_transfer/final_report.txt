@@ -1,0 +1,9 @@
+BYOL TRANSFER LEARNING REPORT
+============================
+
+Fine-tuning Results:
+  Final training accuracy: 0.8333
+  Final training F1 score: 0.8778
+  Final validation accuracy: 0.7875
+  Final validation F1 score: 0.7917
+
